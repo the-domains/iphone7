@@ -1,0 +1,28 @@
+name: iphone7
+favicon: null
+layout_spectrum: 0.15516882669180632
+typography_spectrum: 0.408251948421821
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9754407729487866
+  lightness: 0.20741855190135539
+  saturation: 0.32460738765075803
+  rhythmicContrast: 0.4776560226455331
+purpose: []
